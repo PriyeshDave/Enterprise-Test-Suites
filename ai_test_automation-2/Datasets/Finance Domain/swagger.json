@@ -1,0 +1,61 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "Credit Card Transactions API",
+        "version": "1.0.0",
+        "description": "API for processing credit card transactions"
+    },
+    "paths": {
+        "/transactions/process": {
+            "post": {
+                "summary": "Process a credit card transaction",
+                "requestBody": {
+                    "required": true,
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "type": "object",
+                                "properties": {
+                                    "transaction_id": {
+                                        "type": "string"
+                                    },
+                                    "amount": {
+                                        "type": "number"
+                                    },
+                                    "timestamp": {
+                                        "type": "string",
+                                        "format": "date-time"
+                                    },
+                                    "merchant_id": {
+                                        "type": "string"
+                                    },
+                                    "card_number": {
+                                        "type": "string"
+                                    }
+                                },
+                                "required": [
+                                    "transaction_id",
+                                    "amount",
+                                    "timestamp",
+                                    "merchant_id",
+                                    "card_number"
+                                ]
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "200": {
+                        "description": "Transaction processed successfully"
+                    },
+                    "400": {
+                        "description": "Invalid request data"
+                    },
+                    "500": {
+                        "description": "Internal server error"
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,101 @@
+incident_id,title,severity,service,assigned_to,timestamp,status,resolution_time_minutes,resolution_notes
+INC1000,CPU spike,major,API Gateway,sre-team-2,2025-02-15T21:51:15.927485,in-progress,179,Pending investigation
+INC1001,Service crash,major,API Gateway,infra-team,2025-02-17T01:27:15.927485,open,559,Pending investigation
+INC1002,CPU spike,warning,API Gateway,sre-team-1,2025-02-10T23:36:15.927485,in-progress,4211,Pending investigation
+INC1003,Service crash,minor,Logging System,ops-support,2025-02-07T01:51:15.927485,resolved,3218,Issue mitigated
+INC1004,Database timeout,warning,Logging System,sre-team-2,2025-03-03T22:34:15.927485,resolved,36,Issue mitigated
+INC1005,Database timeout,critical,Authentication Service,ops-support,2025-02-08T21:42:15.927485,in-progress,1217,Pending investigation
+INC1006,CPU spike,major,Authentication Service,on-call-team,2025-02-14T03:16:15.927485,in-progress,911,Pending investigation
+INC1007,CPU spike,minor,Authentication Service,infra-team,2025-02-07T07:11:15.927485,in-progress,2850,Pending investigation
+INC1008,Memory leak,minor,Database,ops-support,2025-03-04T04:54:15.927485,resolved,3533,Issue mitigated
+INC1009,CPU spike,minor,API Gateway,on-call-team,2025-02-16T04:35:15.927485,in-progress,3100,Pending investigation
+INC1010,Memory leak,warning,API Gateway,on-call-team,2025-02-22T23:55:15.927485,in-progress,35,Pending investigation
+INC1011,Database timeout,major,Logging System,infra-team,2025-03-01T10:05:15.927485,resolved,1185,Issue mitigated
+INC1012,Service crash,warning,Database,sre-team-2,2025-02-21T02:54:15.927485,in-progress,803,Pending investigation
+INC1013,CPU spike,critical,Payment Processor,sre-team-1,2025-02-12T08:35:15.927485,resolved,567,Issue mitigated
+INC1014,Service crash,critical,Payment Processor,sre-team-2,2025-02-24T15:29:15.927485,resolved,794,Issue mitigated
+INC1015,CPU spike,minor,API Gateway,on-call-team,2025-02-14T01:03:15.927485,open,2683,Pending investigation
+INC1016,Memory leak,critical,Logging System,infra-team,2025-03-02T11:44:15.927485,open,1119,Pending investigation
+INC1017,Service crash,warning,Payment Processor,sre-team-2,2025-02-22T01:26:15.927485,open,3718,Pending investigation
+INC1018,Service crash,minor,Authentication Service,sre-team-1,2025-02-20T03:49:15.927485,resolved,1210,Issue mitigated
+INC1019,CPU spike,critical,Authentication Service,on-call-team,2025-02-19T19:03:15.927485,in-progress,776,Pending investigation
+INC1020,CPU spike,critical,Database,sre-team-2,2025-02-09T22:27:15.927485,resolved,401,Issue mitigated
+INC1021,Database timeout,critical,Logging System,on-call-team,2025-02-22T07:32:15.927485,in-progress,832,Pending investigation
+INC1022,Database timeout,critical,Database,infra-team,2025-02-05T22:56:15.927485,in-progress,688,Pending investigation
+INC1023,Database timeout,warning,Logging System,infra-team,2025-02-06T15:31:15.927485,open,382,Pending investigation
+INC1024,CPU spike,critical,Authentication Service,ops-support,2025-02-26T02:27:15.927485,open,334,Pending investigation
+INC1025,Memory leak,minor,Database,infra-team,2025-03-04T15:27:15.927485,in-progress,2635,Pending investigation
+INC1026,CPU spike,minor,Payment Processor,on-call-team,2025-02-26T12:45:15.927485,resolved,4246,Issue mitigated
+INC1027,Memory leak,warning,API Gateway,ops-support,2025-02-25T01:06:15.927485,open,1463,Pending investigation
+INC1028,Service crash,warning,Payment Processor,sre-team-2,2025-02-26T11:19:15.927485,in-progress,2853,Pending investigation
+INC1029,Service crash,warning,Database,sre-team-2,2025-02-28T07:00:15.927485,in-progress,2943,Pending investigation
+INC1030,Memory leak,minor,Authentication Service,sre-team-1,2025-03-04T06:27:15.927485,in-progress,1914,Pending investigation
+INC1031,Service crash,minor,Logging System,on-call-team,2025-02-13T17:16:15.927485,open,4116,Pending investigation
+INC1032,Database timeout,major,Database,sre-team-2,2025-02-26T05:52:15.927485,in-progress,614,Pending investigation
+INC1033,Memory leak,major,Database,sre-team-2,2025-02-11T12:25:15.927485,resolved,568,Issue mitigated
+INC1034,Memory leak,warning,Logging System,ops-support,2025-02-08T13:04:15.927485,resolved,4233,Issue mitigated
+INC1035,Database timeout,minor,Payment Processor,on-call-team,2025-03-03T22:11:15.927485,resolved,1020,Issue mitigated
+INC1036,Memory leak,critical,API Gateway,on-call-team,2025-03-01T04:59:15.927485,in-progress,216,Pending investigation
+INC1037,Database timeout,major,Payment Processor,sre-team-1,2025-02-23T14:51:15.927485,open,913,Pending investigation
+INC1038,Database timeout,major,Logging System,infra-team,2025-02-11T05:40:15.927485,resolved,943,Issue mitigated
+INC1039,Service crash,major,Authentication Service,sre-team-2,2025-03-04T09:45:15.927485,resolved,599,Issue mitigated
+INC1040,CPU spike,major,Payment Processor,infra-team,2025-02-04T12:12:15.927485,in-progress,513,Pending investigation
+INC1041,CPU spike,warning,API Gateway,sre-team-1,2025-03-02T14:37:15.927485,in-progress,3410,Pending investigation
+INC1042,Memory leak,warning,Database,sre-team-1,2025-02-15T19:23:15.927485,resolved,2175,Issue mitigated
+INC1043,Memory leak,warning,Database,sre-team-2,2025-02-19T17:03:15.927485,in-progress,2577,Pending investigation
+INC1044,Database timeout,critical,Payment Processor,sre-team-2,2025-02-16T06:06:15.927485,resolved,555,Issue mitigated
+INC1045,Service crash,warning,Database,sre-team-1,2025-03-06T08:14:15.927485,open,2257,Pending investigation
+INC1046,CPU spike,critical,Database,ops-support,2025-02-17T03:13:15.927485,resolved,1045,Issue mitigated
+INC1047,Database timeout,warning,Authentication Service,infra-team,2025-02-18T13:04:15.927485,resolved,1067,Issue mitigated
+INC1048,Database timeout,minor,Logging System,on-call-team,2025-02-25T14:38:15.927485,open,225,Pending investigation
+INC1049,Memory leak,warning,Logging System,sre-team-1,2025-03-03T04:52:15.927485,resolved,3415,Issue mitigated
+INC1050,Database timeout,major,Database,sre-team-1,2025-02-17T12:59:15.927485,resolved,1236,Issue mitigated
+INC1051,CPU spike,minor,Database,sre-team-1,2025-02-16T00:18:15.927485,in-progress,2879,Pending investigation
+INC1052,Memory leak,critical,Authentication Service,ops-support,2025-03-01T08:12:15.927485,open,661,Pending investigation
+INC1053,CPU spike,warning,Database,on-call-team,2025-03-02T16:18:15.927485,resolved,4272,Issue mitigated
+INC1054,CPU spike,critical,API Gateway,on-call-team,2025-02-09T21:28:15.927485,open,1153,Pending investigation
+INC1055,Service crash,warning,Database,sre-team-2,2025-02-13T12:25:15.927485,resolved,4198,Issue mitigated
+INC1056,Memory leak,minor,Authentication Service,sre-team-1,2025-02-21T11:44:15.927485,in-progress,2588,Pending investigation
+INC1057,CPU spike,warning,Logging System,ops-support,2025-02-06T17:23:15.927485,open,2745,Pending investigation
+INC1058,CPU spike,major,Payment Processor,on-call-team,2025-02-18T17:45:15.927485,resolved,198,Issue mitigated
+INC1059,Memory leak,major,API Gateway,infra-team,2025-02-12T03:29:15.927485,open,1395,Pending investigation
+INC1060,Service crash,minor,Authentication Service,on-call-team,2025-02-12T17:18:15.927485,resolved,3690,Issue mitigated
+INC1061,Memory leak,minor,Authentication Service,sre-team-2,2025-03-02T16:46:15.927485,resolved,1428,Issue mitigated
+INC1062,CPU spike,major,Payment Processor,infra-team,2025-03-05T03:03:15.927485,resolved,391,Issue mitigated
+INC1063,Service crash,critical,Database,sre-team-2,2025-02-20T22:49:15.927485,in-progress,658,Pending investigation
+INC1064,Service crash,warning,Logging System,sre-team-1,2025-02-12T15:03:15.927485,open,1688,Pending investigation
+INC1065,Service crash,minor,Database,sre-team-1,2025-02-26T19:22:15.927485,resolved,3023,Issue mitigated
+INC1066,Database timeout,minor,Database,ops-support,2025-02-09T18:56:15.927485,resolved,4203,Issue mitigated
+INC1067,Database timeout,major,API Gateway,infra-team,2025-02-07T23:54:15.927485,open,564,Pending investigation
+INC1068,CPU spike,major,Authentication Service,sre-team-1,2025-03-01T17:36:15.927485,in-progress,955,Pending investigation
+INC1069,Service crash,critical,Payment Processor,ops-support,2025-03-01T23:53:15.927485,in-progress,729,Pending investigation
+INC1070,Service crash,major,Payment Processor,sre-team-1,2025-02-25T23:19:15.927485,in-progress,1032,Pending investigation
+INC1071,Database timeout,warning,API Gateway,sre-team-2,2025-02-11T04:40:15.927485,in-progress,206,Pending investigation
+INC1072,CPU spike,minor,Authentication Service,sre-team-2,2025-03-04T14:07:15.927485,open,2159,Pending investigation
+INC1073,Memory leak,minor,API Gateway,sre-team-2,2025-02-18T21:21:15.927485,resolved,2607,Issue mitigated
+INC1074,CPU spike,minor,Logging System,on-call-team,2025-02-19T07:25:15.927485,in-progress,3455,Pending investigation
+INC1075,Service crash,minor,Database,sre-team-2,2025-02-27T19:44:15.927485,resolved,596,Issue mitigated
+INC1076,CPU spike,minor,Logging System,sre-team-1,2025-02-12T02:59:15.927485,in-progress,2446,Pending investigation
+INC1077,CPU spike,minor,Database,on-call-team,2025-02-09T18:50:15.927485,resolved,3836,Issue mitigated
+INC1078,Database timeout,major,Database,sre-team-1,2025-02-14T16:47:15.927485,resolved,655,Issue mitigated
+INC1079,CPU spike,warning,Database,on-call-team,2025-02-10T11:24:15.927485,open,3297,Pending investigation
+INC1080,Service crash,warning,Authentication Service,on-call-team,2025-02-06T21:20:15.927485,resolved,1564,Issue mitigated
+INC1081,Database timeout,warning,Database,sre-team-2,2025-02-15T02:20:15.927485,open,2634,Pending investigation
+INC1082,CPU spike,warning,Authentication Service,sre-team-1,2025-02-21T07:16:15.927485,in-progress,1954,Pending investigation
+INC1083,Memory leak,minor,Payment Processor,on-call-team,2025-03-03T14:01:15.927485,open,1074,Pending investigation
+INC1084,Memory leak,critical,Logging System,sre-team-2,2025-02-22T05:20:15.927485,in-progress,1064,Pending investigation
+INC1085,Service crash,major,Logging System,on-call-team,2025-03-01T16:40:15.927485,open,1269,Pending investigation
+INC1086,Database timeout,major,API Gateway,sre-team-1,2025-02-14T20:43:15.927485,open,1360,Pending investigation
+INC1087,Database timeout,warning,Payment Processor,ops-support,2025-02-24T15:02:15.927485,resolved,2882,Issue mitigated
+INC1088,Memory leak,major,API Gateway,on-call-team,2025-02-17T18:45:15.927485,in-progress,82,Pending investigation
+INC1089,CPU spike,critical,Logging System,ops-support,2025-02-26T22:52:15.927485,in-progress,256,Pending investigation
+INC1090,Memory leak,warning,Database,sre-team-1,2025-02-17T13:02:15.927485,open,2340,Pending investigation
+INC1091,CPU spike,critical,Payment Processor,infra-team,2025-02-10T18:39:15.927485,in-progress,560,Pending investigation
+INC1092,Database timeout,minor,Logging System,infra-team,2025-02-19T18:21:15.927485,in-progress,567,Pending investigation
+INC1093,CPU spike,minor,Database,sre-team-1,2025-03-01T18:43:15.927485,open,1862,Pending investigation
+INC1094,CPU spike,major,API Gateway,infra-team,2025-02-18T05:10:15.927485,in-progress,1200,Pending investigation
+INC1095,Database timeout,warning,Authentication Service,ops-support,2025-02-12T06:41:15.927485,in-progress,3290,Pending investigation
+INC1096,Memory leak,warning,API Gateway,sre-team-2,2025-02-12T14:29:15.927485,in-progress,1310,Pending investigation
+INC1097,Service crash,critical,API Gateway,on-call-team,2025-02-21T18:40:15.927485,in-progress,248,Pending investigation
+INC1098,Database timeout,critical,Payment Processor,ops-support,2025-02-10T11:11:15.927485,in-progress,1416,Pending investigation
+INC1099,Service crash,critical,Payment Processor,ops-support,2025-02-10T03:26:15.927485,in-progress,452,Pending investigation

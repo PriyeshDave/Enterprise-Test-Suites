@@ -1,0 +1,101 @@
+incident_id,title,severity,service,assigned_to,time_logged,status,resolution_time_minutes,resolution_notes
+INC1000,CPU spike,minor,Database,on-call-team,1740865633,resolved,35,Issue mitigated
+INC1001,Service crash,major,Database,infra-team,1740912685,open,35,Pending investigation
+INC1002,Service crash,critical,Payment Processor,on-call-team,1739842663,in-progress,1577,Pending investigation
+INC1003,Memory leak,minor,API Gateway,ops-support,1740125383,in-progress,35,Pending investigation
+INC1004,Database timeout,minor,Authentication Service,sre-team-2,1739376466,open,2058,Pending investigation
+INC1005,CPU spike,minor,Database,infra-team,1738651335,resolved,4272,Issue mitigated
+INC1006,CPU spike,major,API Gateway,on-call-team,1739726383,in-progress,35,Pending investigation
+INC1007,Database timeout,major,API Gateway,infra-team,1740387577,in-progress,701,Pending investigation
+INC1008,CPU spike,major,Database,ops-support,1740585111,resolved,35,Pending investigation
+INC1009,Memory leak,minor,API Gateway,infra-team,1738651335,in-progress,424,Pending investigation
+INC1010,Memory leak,minor,Payment Processor,ops-support,1740539361,open,4177,Pending investigation
+INC1011,CPU spike,warning,Logging System,on-call-team,1741229055,open,1768,Pending investigation
+INC1012,CPU spike,critical,API Gateway,on-call-team,1739496392,in-progress,35,Pending investigation
+INC1013,Memory leak,critical,Authentication Service,on-call-team,1738902188,in-progress,35,Pending investigation
+INC1014,Database timeout,critical,Payment Processor,sre-team-1,1739231070,in-progress,268,Pending investigation
+INC1015,Memory leak,major,API Gateway,sre-team-2,1739200773,resolved,1999,Pending investigation
+INC1016,CPU spike,warning,Logging System,on-call-team,1739920643,resolved,2534,Issue mitigated
+INC1017,Service crash,minor,Authentication Service,on-call-team,1740508400,resolved,3665,Issue mitigated
+INC1018,CPU spike,major,API Gateway,infra-team,1740406492,in-progress,829,Pending investigation
+INC1019,Memory leak,minor,Database,on-call-team,1741229055,in-progress,2569,Pending investigation
+INC1020,Service crash,minor,Database,sre-team-2,1740347287,resolved,1078,Issue mitigated
+INC1021,CPU spike,major,API Gateway,on-call-team,1740393442,open,35,Pending investigation
+INC1022,Service crash,minor,Database,on-call-team,1741229055,resolved,35,Issue mitigated
+INC1023,Database timeout,critical,API Gateway,infra-team,1740753882,open,1550,Pending investigation
+INC1024,CPU spike,minor,Authentication Service,sre-team-1,1738881766,in-progress,402,Pending investigation
+INC1025,Database timeout,critical,Payment Processor,sre-team-2,1739820195,in-progress,2577,Pending investigation
+INC1026,Service crash,critical,Authentication Service,on-call-team,1740466322,open,4272,Issue mitigated
+INC1027,Service crash,major,Database,on-call-team,1741229055,resolved,1127,Issue mitigated
+INC1028,Database timeout,critical,Authentication Service,ops-support,1738651335,open,4163,Pending investigation
+INC1029,Database timeout,critical,Database,sre-team-2,1740883957,in-progress,2913,Pending investigation
+INC1030,Memory leak,minor,Payment Processor,on-call-team,1741222619,resolved,35,Pending investigation
+INC1031,CPU spike,minor,Payment Processor,on-call-team,1740596830,in-progress,563,Pending investigation
+INC1032,Database timeout,major,Logging System,ops-support,1739042382,resolved,1954,Pending investigation
+INC1033,Service crash,warning,API Gateway,infra-team,1741061616,in-progress,4272,Pending investigation
+INC1034,Database timeout,major,Database,on-call-team,1740443302,resolved,35,Issue mitigated
+INC1035,Service crash,major,Database,on-call-team,1740305995,resolved,1450,Issue mitigated
+INC1036,Memory leak,warning,Database,ops-support,1739415437,resolved,35,Issue mitigated
+INC1037,Memory leak,critical,API Gateway,on-call-team,1740087912,open,35,Issue mitigated
+INC1038,CPU spike,critical,Logging System,infra-team,1741019385,open,860,Issue mitigated
+INC1039,Database timeout,critical,Database,sre-team-2,1738651335,resolved,4272,Issue mitigated
+INC1040,Database timeout,major,Payment Processor,sre-team-2,1738651335,resolved,1499,Issue mitigated
+INC1041,Database timeout,minor,Database,sre-team-1,1739322500,resolved,1373,Issue mitigated
+INC1042,Service crash,warning,Payment Processor,ops-support,1740350060,resolved,1009,Issue mitigated
+INC1043,Memory leak,warning,Database,sre-team-2,1741229055,resolved,1243,Pending investigation
+INC1044,Service crash,warning,Database,ops-support,1739652006,resolved,4272,Issue mitigated
+INC1045,CPU spike,warning,API Gateway,on-call-team,1741065799,resolved,35,Issue mitigated
+INC1046,Database timeout,critical,Logging System,infra-team,1739878506,resolved,2356,Pending investigation
+INC1047,Database timeout,major,Database,sre-team-2,1741229055,resolved,35,Pending investigation
+INC1048,CPU spike,critical,Payment Processor,sre-team-2,1739993536,in-progress,115,Pending investigation
+INC1049,Service crash,warning,Database,sre-team-2,1740739294,resolved,4065,Issue mitigated
+INC1050,Service crash,warning,Payment Processor,sre-team-2,1738651335,resolved,1276,Issue mitigated
+INC1051,CPU spike,warning,API Gateway,on-call-team,1740082390,in-progress,1174,Pending investigation
+INC1052,Database timeout,major,Database,sre-team-1,1738651335,resolved,1749,Issue mitigated
+INC1053,Service crash,warning,Logging System,on-call-team,1738654025,resolved,1774,Issue mitigated
+INC1054,Database timeout,critical,Payment Processor,ops-support,1739647333,open,2139,Pending investigation
+INC1055,Service crash,critical,Database,on-call-team,1740609145,in-progress,3803,Pending investigation
+INC1056,Database timeout,warning,Database,sre-team-2,1741165155,resolved,1444,Issue mitigated
+INC1057,Service crash,major,Authentication Service,on-call-team,1739553012,open,35,Pending investigation
+INC1058,Service crash,critical,API Gateway,ops-support,1740519870,resolved,633,Pending investigation
+INC1059,Memory leak,warning,API Gateway,ops-support,1740276395,in-progress,524,Pending investigation
+INC1060,Service crash,minor,Authentication Service,sre-team-2,1738651335,resolved,580,Issue mitigated
+INC1061,CPU spike,major,API Gateway,ops-support,1739354670,open,1099,Pending investigation
+INC1062,Service crash,minor,Database,sre-team-1,1740245330,resolved,2232,Issue mitigated
+INC1063,CPU spike,minor,Database,sre-team-2,1738651335,resolved,855,Issue mitigated
+INC1064,CPU spike,minor,Authentication Service,sre-team-2,1739073541,resolved,4138,Issue mitigated
+INC1065,Database timeout,critical,Database,ops-support,1739434694,in-progress,1810,Pending investigation
+INC1066,Database timeout,warning,Database,sre-team-2,1740494736,resolved,2898,Pending investigation
+INC1067,Memory leak,minor,Database,on-call-team,1740853747,open,1192,Pending investigation
+INC1068,Database timeout,minor,Database,sre-team-2,1740393168,resolved,35,Issue mitigated
+INC1069,Database timeout,minor,API Gateway,sre-team-1,1740576518,resolved,35,Pending investigation
+INC1070,Database timeout,critical,Database,sre-team-1,1739365363,resolved,35,Pending investigation
+INC1071,CPU spike,major,Database,infra-team,1739949413,resolved,2297,Pending investigation
+INC1072,Service crash,warning,API Gateway,sre-team-2,1739099217,open,779,Pending investigation
+INC1073,Service crash,minor,Database,ops-support,1741030352,resolved,3410,Pending investigation
+INC1074,Service crash,major,Authentication Service,on-call-team,1740869418,open,1065,Pending investigation
+INC1075,Memory leak,critical,Logging System,on-call-team,1740876235,resolved,996,Issue mitigated
+INC1076,Database timeout,warning,Authentication Service,sre-team-1,1738868295,resolved,371,Pending investigation
+INC1077,Service crash,warning,Authentication Service,sre-team-2,1739158093,resolved,3312,Pending investigation
+INC1078,Service crash,minor,Payment Processor,sre-team-1,1739758076,open,1172,Pending investigation
+INC1079,Service crash,major,Database,on-call-team,1740726336,in-progress,2787,Issue mitigated
+INC1080,Service crash,critical,Logging System,infra-team,1740332891,open,151,Pending investigation
+INC1081,CPU spike,warning,Authentication Service,sre-team-2,1740621815,in-progress,4272,Pending investigation
+INC1082,Service crash,major,Payment Processor,sre-team-2,1741229055,open,431,Pending investigation
+INC1083,CPU spike,warning,Logging System,ops-support,1739623158,resolved,2461,Pending investigation
+INC1084,Memory leak,warning,Database,ops-support,1740143017,open,4272,Issue mitigated
+INC1085,Database timeout,warning,Logging System,on-call-team,1738651335,in-progress,35,Pending investigation
+INC1086,Database timeout,critical,Database,on-call-team,1739390386,resolved,35,Issue mitigated
+INC1087,Memory leak,warning,Payment Processor,sre-team-1,1738651335,resolved,3365,Pending investigation
+INC1088,Service crash,minor,Payment Processor,on-call-team,1739696347,resolved,1412,Issue mitigated
+INC1089,Database timeout,minor,Authentication Service,on-call-team,1741085199,open,4272,Issue mitigated
+INC1090,Service crash,minor,Database,on-call-team,1740485031,resolved,4272,Issue mitigated
+INC1091,CPU spike,minor,Payment Processor,on-call-team,1740851430,resolved,35,Pending investigation
+INC1092,Service crash,minor,Database,infra-team,1740806721,resolved,4272,Issue mitigated
+INC1093,Database timeout,minor,Payment Processor,on-call-team,1739716506,open,678,Pending investigation
+INC1094,Database timeout,major,Authentication Service,infra-team,1738651335,resolved,190,Pending investigation
+INC1095,Database timeout,minor,Database,sre-team-2,1739914761,resolved,1500,Issue mitigated
+INC1096,Database timeout,warning,Database,sre-team-2,1738769797,resolved,2234,Issue mitigated
+INC1097,CPU spike,warning,API Gateway,infra-team,1739811993,in-progress,818,Pending investigation
+INC1098,Database timeout,critical,Payment Processor,on-call-team,1739867133,in-progress,242,Pending investigation
+INC1099,Database timeout,warning,API Gateway,infra-team,1738651335,open,1429,Pending investigation
